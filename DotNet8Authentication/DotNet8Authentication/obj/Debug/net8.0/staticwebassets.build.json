@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FcHYcmfoHCviKEfo3FUaobAFJkQ6VxMIIg2bhZUaHPI=",
+  "Source": "DotNet8Authentication",
+  "BasePath": "_content/DotNet8Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
